@@ -53,7 +53,6 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div style="text-align: left;">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" style="margin-right: 20px;" />
-    <img src="http://mazandi.herokuapp.com/api?handle=manner0814&theme=dark"/>
 
   </div>
   <br/>
