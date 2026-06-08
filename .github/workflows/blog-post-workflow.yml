@@ -1,0 +1,25 @@
+name: Latest blog posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # 6시간마다
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Pull latest posts into README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://monkshark.github.io/index.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$newline_$date</sub>$newline"
+          date_format: "yyyy-MM-dd"
+          commit_message: "chore: update latest blog posts"
