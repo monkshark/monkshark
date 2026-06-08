@@ -41,9 +41,9 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [GitHub 프로필에 블로그 글 자동으로 띄우기 — 네 번 막힌 기록](https://monkshark.github.io/p/github-readme-blog-automation/) <sub>2026-06-08</sub>
 - [#13 - `swift hello.swift` 한 줄이 Windows SDK 링킹까지 닿기까지](https://monkshark.github.io/p/page-ide-swift-on-windows/) <sub>2026-05-30</sub>
-- [#12 - `gem install solargraph` 한 줄에서 prebuilt 번들 다중 버전까지](https://monkshark.github.io/p/page-ide-ruby-bootstrap-rabbit-hole/) <sub>2026-05-23</sub>
-- [#11 - rate limit 한 줄에서 4계층 fallback 까지](https://monkshark.github.io/p/page-ide-kls-manifest-rate-limit/) <sub>2026-05-21</sub><!-- BLOG-POST-LIST:END -->
+- [#12 - `gem install solargraph` 한 줄에서 prebuilt 번들 다중 버전까지](https://monkshark.github.io/p/page-ide-ruby-bootstrap-rabbit-hole/) <sub>2026-05-23</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지
 
