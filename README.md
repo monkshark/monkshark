@@ -33,6 +33,11 @@
 
 </div>
 
+## 🏆 Awards
+
+- **Junction Asia 2024** · Mommytalk Track — 1st Place · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h) <sub>2024.08</sub>
+- **Junction Asia 2023** · BTO×groundK Track — 3rd Place · Main Dev. @ MPEX <sub>2023.08</sub>
+
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
