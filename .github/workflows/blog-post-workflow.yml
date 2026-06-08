@@ -21,7 +21,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://monkshark.github.io/index.xml"
-          max_post_count: 5
+          max_post_count: 3
           template: "$newline- [$title]($url) <sub>$date</sub>"
           date_format: "yyyy-mm-dd"
           commit_message: "chore: update latest blog posts"
