@@ -38,9 +38,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [#13 - `swift hello.swift` 한 줄이 Windows SDK 링킹까지 닿기까지](https://monkshark.github.io/p/page-ide-swift-on-windows/) <sub>2026-05-30</sub>
 - [#12 - `gem install solargraph` 한 줄에서 prebuilt 번들 다중 버전까지](https://monkshark.github.io/p/page-ide-ruby-bootstrap-rabbit-hole/) <sub>2026-05-23</sub>
-- [#11 - rate limit 한 줄에서 4계층 fallback 까지](https://monkshark.github.io/p/page-ide-kls-manifest-rate-limit/) <sub>2026-05-21</sub>
-- [#10 - 다음 작업이 둘일 때, startup 측정기부터 깐 이유](https://monkshark.github.io/p/page-ide-perf-tracing-first/) <sub>2026-05-21</sub>
-- [#9 - references 가 잘못된 자리를 잡을 때, fork 가 답이 아니었던 이유](https://monkshark.github.io/p/page-ide-references-text-scan/) <sub>2026-05-14</sub><!-- BLOG-POST-LIST:END -->
+- [#11 - rate limit 한 줄에서 4계층 fallback 까지](https://monkshark.github.io/p/page-ide-kls-manifest-rate-limit/) <sub>2026-05-21</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경을 기록하는 개발 일지
 
