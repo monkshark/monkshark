@@ -52,7 +52,7 @@
 <table>
 <tr>
 <td width="58%" valign="middle">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="100%" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun,Sat&excludeDaysLabel=151515" alt="GitHub Streak" width="100%" /></a>
 </td>
 <td width="42%" valign="middle">
 <a href="https://www.acmicpc.net/user/manner0814"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" alt="BOJ" width="100%" /></a>
