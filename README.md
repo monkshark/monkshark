@@ -7,7 +7,7 @@
 만들고 싶은 게 생기면 끝까지 만들어보는 편입니다.<br/>
 프로토타입에서 멈추지 않고, 출시할 수 있는 형태까지 밀어붙이는 걸 좋아합니다.
 
-[![Blog](https://img.shields.io/badge/Blog-monkshark.dev-4C7EF3?style=flat-square&logo=hugo&logoColor=white)](https://monkshark.github.io)
+[![Blog](https://img.shields.io/badge/Blog-monkshark.dev-4C7EF3?style=flat-square&logo=googlechrome&logoColor=white)](https://monkshark.github.io)
 [![Mail](https://img.shields.io/badge/Mail-justinchoo0814-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:justinchoo0814@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-void___main-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/void___main)
 
