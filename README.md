@@ -35,7 +35,7 @@
 
 ## 🏆 Awards
 
-- **Junction Asia 2024** · Mommytalk Track — 1st Place · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h#:~:text=경상북도%20트랙에서%201위를%20차지한,솔루션을%20구연했다) <sub>2024.08</sub>
+- **Junction Asia 2024** · Gyeongbuk×Mommytalk Track — 1st Place · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h#:~:text=경상북도%20트랙에서%201위를%20차지한,솔루션을%20구연했다) <sub>2024.08</sub>
 - **Junction Asia 2023** · BTO×groundK Track — 3rd Place · Main Dev. @ MPEX <sub>2023.08</sub>
 
 ## 📝 Latest Posts
@@ -55,7 +55,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="100%" /></a>
 </td>
 <td width="42%" valign="middle">
-<a href="https://www.acmicpc.net/user/manner0814"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" alt="BOJ" width="100%" /></a>
+<a href="https://www.acmicpc.net/user/manner0814"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" alt="BOJ" width="100%" /></a>
 </td>
 </tr>
 </table>
