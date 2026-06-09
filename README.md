@@ -47,9 +47,18 @@
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지
 
-## 🧩 Problem Solving
+## 📊 Stats
 
-[![BOJ](http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814)](https://www.acmicpc.net/user/manner0814)
+<table>
+<tr>
+<td width="58%" valign="middle">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" width="100%" /></a>
+</td>
+<td width="42%" valign="middle">
+<a href="https://www.acmicpc.net/user/manner0814"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=manner0814" alt="BOJ" width="100%" /></a>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
