@@ -41,10 +41,9 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub 프로필에 블로그 글 자동으로 띄우기 — 네 번 막힌 기록](https://monkshark.github.io/p/github-readme-blog-automation/) <sub>2026-06-08</sub>
-- [#13 - `swift hello.swift` 한 줄이 Windows SDK 링킹까지 닿기까지](https://monkshark.github.io/p/page-ide-swift-on-windows/) <sub>2026-05-30</sub>
-- [#12 - `gem install solargraph` 한 줄에서 prebuilt 번들 다중 버전까지](https://monkshark.github.io/p/page-ide-ruby-bootstrap-rabbit-hole/) <sub>2026-05-23</sub>> [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지
-<!-- BLOG-POST-LIST:END -->
+- [#3 - eval이 Promise를 안 기다려서, 전역에 써두고 폴링했다](https://monkshark.github.io/p/api-inspector-engineering/) <sub>2026-06-10</sub>
+- [#14 - 콜백이 흩어질 때, 상태를 onEvent 하나로 모으기](https://monkshark.github.io/p/page-ide-mvi-onevent/) <sub>2026-06-09</sub>
+- [#2 - 가린 cURL이 그대로 실행되게, 토큰을 변수 자리로](https://monkshark.github.io/p/api-inspector-product/) <sub>2026-06-09</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
 
