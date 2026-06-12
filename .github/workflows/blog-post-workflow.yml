@@ -24,4 +24,4 @@ jobs:
           max_post_count: 3
           template: "$newline- [$title]($url) <sub>$date</sub>"
           date_format: "yyyy-mm-dd"
-          commit_message: "chore: update latest blog posts"
+          commit_message: "update latest blog posts"
