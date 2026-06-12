@@ -46,6 +46,8 @@
 - [#12 - `gem install solargraph` 한 줄에서 prebuilt 번들 다중 버전까지](https://monkshark.github.io/p/page-ide-ruby-bootstrap-rabbit-hole/) <sub>2026-05-23</sub>> [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지
 <!-- BLOG-POST-LIST:END -->
 
+> [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
+
 ## 📊 Stats
 
 <table>
