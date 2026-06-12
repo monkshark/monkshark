@@ -7,11 +7,6 @@
 만들고 싶은 게 생기면 끝까지 만들어보는 편입니다.<br/>
 프로토타입에서 멈추지 않고, 출시할 수 있는 형태까지 밀어붙이는 걸 좋아합니다.
 
-<!-- BLOG-POST-LIST:START -->
-- [#3 - eval이 Promise를 안 기다려서, 전역에 써두고 폴링했다](https://monkshark.github.io/p/api-inspector-engineering/) <sub>2026-06-10</sub>
-- [#14 - 콜백이 흩어질 때, 상태를 onEvent 하나로 모으기](https://monkshark.github.io/p/page-ide-mvi-onevent/) <sub>2026-06-09</sub>
-- [#2 - 가린 cURL이 그대로 실행되게, 토큰을 변수 자리로](https://monkshark.github.io/p/api-inspector-product/) <sub>2026-06-09</sub><!-- BLOG-POST-LIST:END -->
-
 </div>
 
 <br/>
