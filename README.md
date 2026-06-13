@@ -21,8 +21,6 @@
 --><img src="https://raw.githubusercontent.com/monkshark/monkshark/refs/heads/main/assets/js-ts.svg" height="48" /><!--
 --><img src="https://skillicons.dev/icons?i=dart,python" height="48" />
 
-<br/><br/>
-
 **Mobile · Web**
 
 ![Mobile and Web](https://skillicons.dev/icons?i=flutter,swift,androidstudio,react,nextjs,tailwind)
