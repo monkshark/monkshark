@@ -17,9 +17,9 @@
 
 **Language**
 
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs" height="48" valign="middle" />
-<img src="https://raw.githubusercontent.com/monkshark/monkshark/refs/heads/main/assets/js-ts.svg" height="48" valign="middle" />
-<img src="https://skillicons.dev/icons?i=dart,python" height="48" valign="middle" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs" height="48" /><!--
+--><img src="https://raw.githubusercontent.com/monkshark/monkshark/refs/heads/main/assets/js-ts.svg" height="48" /><!--
+--><img src="https://skillicons.dev/icons?i=dart,python" height="48" />
 
 <br/><br/>
 
