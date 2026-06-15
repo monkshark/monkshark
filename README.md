@@ -39,9 +39,9 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#3 - eval이 Promise를 안 기다려서, 전역에 써두고 폴링했다](https://monkshark.github.io/p/api-inspector-engineering/) <sub>2026-06-10</sub>
-- [#14 - 콜백이 흩어질 때, 상태를 onEvent 하나로 모으기](https://monkshark.github.io/p/page-ide-mvi-onevent/) <sub>2026-06-09</sub>
-- [#2 - 가린 cURL이 그대로 실행되게, 토큰을 변수 자리로](https://monkshark.github.io/p/api-inspector-product/) <sub>2026-06-09</sub><!-- BLOG-POST-LIST:END -->
+- [#3 - 위장을 들키지 않기, 그리고 확장의 천장](https://monkshark.github.io/p/masque-hardening/) <sub>2026-06-15</sub>
+- [#2 - 페이지보다 먼저, 그런데 설정을 실어서 주입하기](https://monkshark.github.io/p/masque-injection/) <sub>2026-06-14</sub>
+- [#1 - 어설픈 위장은 오히려 더 튄다](https://monkshark.github.io/p/masque-problem/) <sub>2026-06-13</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
 
