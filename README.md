@@ -33,8 +33,9 @@
 
 ## 🏆 Awards
 
+- **Junction Asia 2025** · Demo Day Open Track — **2nd Place** · Team Lead @ MPEX <sub>2025.11</sub>
 - **Junction Asia 2024** · Gyeongbuk × Mommytalk Track — **Track Winner (1st Place)** · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h#:~:text=경상북도%20트랙에서%201위를%20차지한,솔루션을%20구연했다) <sub>2024.08</sub>
-- **Junction Asia 2023** · BTO×groundK Track — 3rd Place · Main Dev. @ MPEX <sub>2023.08</sub>
+- **Junction Asia 2023** · BTO×groundK Track — **3rd Place** · Main Dev. @ MPEX <sub>2023.08</sub>
 
 ## 📝 Latest Posts
 
