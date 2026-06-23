@@ -40,9 +40,9 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#15 - 모든 import 가 import 는 아니다](https://monkshark.github.io/p/page-ide-language-import-gaps/) <sub>2026-06-22</sub>
-- [#3 - 위장을 들키지 않기, 그리고 확장의 천장](https://monkshark.github.io/p/masque-hardening/) <sub>2026-06-15</sub>
-- [#2 - 페이지보다 먼저, 그런데 설정을 실어서 주입하기](https://monkshark.github.io/p/masque-injection/) <sub>2026-06-14</sub><!-- BLOG-POST-LIST:END -->
+- [#3 - 요약을 온디바이스로, 네 엔진을 한 입구로](https://monkshark.github.io/p/pr-lens-summary/) <sub>2026-06-23</sub>
+- [#2 - 남의 DOM 위에 세 들어 산다](https://monkshark.github.io/p/pr-lens-resilience/) <sub>2026-06-23</sub>
+- [#1 - 큰 PR 은 어디까지 봤는지부터 잃는다](https://monkshark.github.io/p/pr-lens-tracker/) <sub>2026-06-23</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
 
