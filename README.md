@@ -23,7 +23,7 @@
 
 **Mobile · Web**
 
-![Mobile and Web](https://skillicons.dev/icons?i=flutter,swift,androidstudio,react,nextjs,tailwind)
+![Mobile and Web](https://skillicons.dev/icons?i=androidstudio,flutter,react,nextjs,swift,tailwind)
 
 **Backend**
 
