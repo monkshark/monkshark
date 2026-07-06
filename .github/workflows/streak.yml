@@ -1,0 +1,41 @@
+name: GitHub streak
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cache-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch streak SVG (wait out cold start)
+        run: |
+          URL="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun,Sat&excludeDaysLabel=151515"
+          for i in $(seq 1 6); do
+            code=$(curl -s -m 60 -o streak.svg -w "%{http_code}" "$URL")
+            if [ "$code" = "200" ] && grep -q "</svg>" streak.svg; then
+              echo "fetched on try $i"
+              exit 0
+            fi
+            echo "retry $i (code=$code)"
+            sleep 6
+          done
+          echo "failed to fetch a valid streak svg"
+          exit 1
+
+      - name: Push SVG to streak branch
+        run: |
+          mkdir -p out && cp streak.svg out/github-streak.svg
+          cd out
+          git init -q
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-streak.svg
+          git commit -qm "update streak svg"
+          git branch -M streak
+          git remote add origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
+          git push -fq origin streak
