@@ -1,0 +1,24 @@
+name: Activity box
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 12시간마다
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  update-box:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Update activity gist
+        run: node scripts/activity-box.mjs
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          TIMEZONE: Asia/Seoul
