@@ -14,7 +14,6 @@ const gql = async (query) => {
   return json.data;
 };
 
-/** clone from https://github.com/matchai/waka-box */
 const bar = (percent, size) => {
   const syms = '░▏▎▍▌▋▊▉█';
   const frac = Math.floor((size * 8 * percent) / 100);
@@ -24,7 +23,7 @@ const bar = (percent, size) => {
   return (syms[8].repeat(full) + syms[semi]).padEnd(size, syms[0]);
 };
 
-const BAR = 16; // bar width — keeps the card narrow
+const BAR = 12;
 
 (async () => {
   const { viewer } = await gql(`query { viewer { login id } }`);
@@ -76,7 +75,7 @@ const BAR = 16; // bar width — keeps the card narrow
   ];
   const timeLines = timeRows.map((r) => {
     const p = (r.n / timeSum) * 100;
-    return `${r.label.padEnd(10)} ${bar(p, BAR)} ${p.toFixed(1).padStart(5)}%`;
+    return `${r.label.padEnd(10)} ${bar(p, BAR)} ${Math.round(p).toString().padStart(3)}%`;
   });
 
   const langData = await gql(`query {
@@ -102,11 +101,10 @@ const BAR = 16; // bar width — keeps the card narrow
     .slice(0, 3)
     .map(([name, size]) => ({ name, percent: (size / totalBytes) * 100 }));
 
-  const langLines = topLangs.map(
-    (l) => `${l.name.padEnd(10)} ${bar(l.percent, BAR)} ${l.percent.toFixed(1).padStart(5)}%`,
-  );
+  const langSummary =
+    '💻 ' + topLangs.map((l) => `${l.name} ${Math.round(l.percent)}%`).join(' · ');
 
-  const content = [...timeLines, '', ...langLines].join('\n');
+  const content = [...timeLines, langSummary].join('\n');
 
   const owl = morning + daytime > evening + night ? '🐤 early bird' : '🦉 night owl';
   const title = `${owl} · mostly ${topLangs[0]?.name ?? 'code'}`;
