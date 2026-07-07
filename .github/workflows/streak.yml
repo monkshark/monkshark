@@ -15,16 +15,19 @@ jobs:
       - name: Fetch streak SVG (wait out cold start)
         run: |
           URL="https://streak-stats.demolab.com?user=monkshark&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun,Sat&excludeDaysLabel=151515"
-          for i in $(seq 1 6); do
+          for i in $(seq 1 8); do
             code=$(curl -s -m 60 -o streak.svg -w "%{http_code}" "$URL")
-            if [ "$code" = "200" ] && grep -q "</svg>" streak.svg; then
-              echo "fetched on try $i"
+            if [ "$code" = "200" ] \
+              && grep -q "</svg>" streak.svg \
+              && grep -q "Total Contributions" streak.svg \
+              && ! grep -qi "Failed to retrieve\|Something went wrong" streak.svg; then
+              echo "fetched valid streak on try $i"
               exit 0
             fi
             echo "retry $i (code=$code)"
-            sleep 6
+            sleep 10
           done
-          echo "failed to fetch a valid streak svg"
+          echo "no valid streak svg after retries"
           exit 1
 
       - name: Push SVG to streak branch
