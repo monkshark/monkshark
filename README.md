@@ -27,7 +27,7 @@
 
 **Backend**
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb,firebase)
+![Backend](https://skillicons.dev/icons?i=spring,nodejs,express,mysql,mongodb,firebase)
 
 </div>
 
