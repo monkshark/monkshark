@@ -40,9 +40,9 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#16 - KLS 콜드 스타트 145s -&gt; 40s, 헛발 짚은 첫 수정과 진짜 병목](https://monkshark.github.io/p/page-ide-kls-cold-start-145s-to-40s/) <sub>2026-06-30</sub>
-- [#3 - 요약을 온디바이스로, 네 엔진을 한 입구로](https://monkshark.github.io/p/pr-lens-summary/) <sub>2026-06-23</sub>
-- [#2 - 남의 DOM 위에 세 들어 산다](https://monkshark.github.io/p/pr-lens-resilience/) <sub>2026-06-23</sub><!-- BLOG-POST-LIST:END -->
+- [#4 - 피치가 망한 날 파이널에 올라갔다](https://monkshark.github.io/p/dodam-final-pitch/) <sub>2026-07-20</sub>
+- [#3 - 모른다고 말할 수 있게 만들기](https://monkshark.github.io/p/dodam-say-i-dont-know/) <sub>2026-07-20</sub>
+- [#2 - 장바구니에 담기 전에 쓰이려면](https://monkshark.github.io/p/dodam-floating-scan/) <sub>2026-07-20</sub><!-- BLOG-POST-LIST:END -->
 
 > [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
 
