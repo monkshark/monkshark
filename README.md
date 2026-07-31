@@ -40,7 +40,7 @@
 ## 📝 Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#4 - 피치가 망한 날 파이널에 올라갔다](https://monkshark.github.io/p/dodam-final-pitch/) <sub>2026-07-20</sub>
+- [#4 - 피치가 망한 날](https://monkshark.github.io/p/dodam-final-pitch/) <sub>2026-07-20</sub>
 - [#3 - 모른다고 말할 수 있게 만들기](https://monkshark.github.io/p/dodam-say-i-dont-know/) <sub>2026-07-20</sub>
 - [#2 - 장바구니에 담기 전에 쓰이려면](https://monkshark.github.io/p/dodam-floating-scan/) <sub>2026-07-20</sub><!-- BLOG-POST-LIST:END -->
 
