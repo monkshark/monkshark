@@ -124,5 +124,5 @@ const BAR = 12;
   });
   if (!patch.ok) throw new Error(`gist update failed: ${patch.status} ${await patch.text()}`);
 
-  console.log(`updated gist ✅\n${title}\n${content}`);
+  console.log(`updated gist \n${title}\n${content}`);
 })();

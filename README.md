@@ -34,7 +34,7 @@
 ## 🏆 Awards
 
 - **Junction Asia 2025** · Demo Day Open Track — **2nd Place** · Team Lead @ MPEX <sub>2025.11</sub>
-- **Junction Asia 2024** · Gyeongbuk × Mommytalk Track — **Track Winner (1st Place)** · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h#:~:text=경상북도%20트랙에서%201위를%20차지한,솔루션을%20구연했다) <sub>2024.08</sub>
+- **Junction Asia 2024** · Gyeongbuk × Mommytalk Track — **Track Winner (1st Place)** · Team Lead @ MPEX [📰](https://www.hankyung.com/article/202408127489h#:~:text=경상북도%20트랙에서%201위를%20차지한,솔루션을%20구연했다)한경신문 <sub>2024.08</sub>
 - **Junction Asia 2023** · BTO × groundK Track — **3rd Place** · Main Dev. @ MPEX <sub>2023.08</sub>
 
 ## 📝 Latest Posts
@@ -44,7 +44,7 @@
 - [#3 - 모른다고 말할 수 있게 만들기](https://monkshark.github.io/p/dodam-say-i-dont-know/) <sub>2026-07-20</sub>
 - [#2 - 장바구니에 담기 전에 쓰이려면](https://monkshark.github.io/p/dodam-floating-scan/) <sub>2026-07-20</sub><!-- BLOG-POST-LIST:END -->
 
-> [monkshark.dev](https://monkshark.github.io) — 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
+> [monkshark.dev](https://monkshark.github.io) - 기술 선택의 이유, 삽질한 과정, 구조를 바꾼 배경 등을 기록하는 개발 일지 블로그
 
 ## 📊 Stats
 
